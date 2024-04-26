@@ -1,0 +1,36 @@
+Introdução
+Bem-vindo ao Levantamento para o Website de E-Commerce de Sneakers
+Agradecemos sua contribuição enquanto projetamos nosso novo site. Vamos começar!
+
+Informações Gerais
+Grupo 7 - CAIO CUTRIM, EDUARDO SALOMÃO, FILIPE MESQUITA, GUILHERME MARTIN
+Público-alvo: Jovens entre 15 à 25 anos
+
+Preferências de Design
+Esquema de cores preferido: Branco, marrom, flyers modernos e baseados em streatwear
+Estilo de layout preferido: grid, seções, layout minimalista e páginas
+Preferências de fonte: Fontes Sans Serif, Black, Bold, Medium e Light (Fontes a decidir)
+
+Requisitos Funcionais
+Catálogo de produtos
+Funcionalidade de pesquisa 
+Processo de Login
+Contas de usuário 
+Carrinho de compras
+Lista de desejo
+Catálogo de produtos
+Filtros
+Processo de checkout desejado 
+
+Requisitos Técnicos
+Plataforma preferida: Desenvolvimento personalizado e Figma
+Responsividade móvel: Não
+Gateways de pagamento necessários: A decidir gateway, Pix e Boleto Bancário
+
+Recursos Adicionais
+Lista de desejos 
+Avaliações e classificações 
+Integração com redes sociais
+Parcerias
+FAQ
+Contatos e localização.
